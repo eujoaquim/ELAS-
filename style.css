@@ -603,4 +603,4 @@ section {
 
 .inscricao .section-tag { color: var(--dourado); }
 .inscricao .section-title { color: var(--branco); }
-.inscricao .section-desc { color: rgba(
+.inscricao .section-desc {   color: rgba(255,255,255,0.7); }
